@@ -14,11 +14,11 @@ class Solution {
 
         }
         c=0;
-        for(int i=0;i<n;i++)
-        {
-            if(nums[i]==el)
-             c++;
-        }
+        // for(int i=0;i<n;i++)
+        // {
+        //     if(nums[i]==el)
+        //      c++;
+        // }
         // if(c>(n/2))
         //  return el;
 
