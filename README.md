@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
