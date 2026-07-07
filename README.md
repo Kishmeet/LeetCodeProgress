@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
