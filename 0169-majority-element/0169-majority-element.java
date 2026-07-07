@@ -13,7 +13,7 @@ class Solution {
              el=nums[i+1];
 
         }
-        c=0;
+        // c=0;
         // for(int i=0;i<n;i++)
         // {
         //     if(nums[i]==el)
