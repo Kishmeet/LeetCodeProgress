@@ -19,8 +19,8 @@ class Solution {
                     x = x + 1;
                     c++;
                 }
-            }
             l = Math.max(l, c);
+            }
         }
 
         return l;
