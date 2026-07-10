@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0560-subarray-sum-equals-k) |
+| [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
