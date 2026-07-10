@@ -21,12 +21,12 @@ class Solution {
             }
         }
 
-        if (el1 > el2) {
-            int temp = el1;
-            el1 = el2;
-            el2 = temp;
+        // if (el1 > el2) {
+        //     int temp = el1;
+        //     el1 = el2;
+        //     el2 = temp;
 
-        }
+        // }
         c1 = 0;
         c2 = 0;
         for (int i = 0; i < nums.length; i++) {
