@@ -5,8 +5,8 @@ class Solution {
         List<int []> ans = new ArrayList<>();
         for (int interval[] : intervals) {
             if (ans.isEmpty() || ans.get(ans.size() - 1)[1] < interval[0]) {
-                // ans.add(new int[] {interval[0], interval[1]});
-                ans.add(interval);
+                ans.add(new int[] {interval[0], interval[1]});
+                // ans.add(interval);
 
             } else {
                 int last = ans.size() - 1;
