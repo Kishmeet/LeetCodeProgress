@@ -2,11 +2,10 @@ class Solution {
     public int[] productExceptSelf(int[] nums) {
       int cr= 1 ; int n=nums.length;
       int ans[] =new int[n];
-      Arrays.fill(ans,1);;
-      for(int i=1;i<n;i++)
+      for(int i=0;i<n;i++)
       {
-        cr*=nums[i-1];
-        ans[i]*=cr;
+        ans[i]=cr;
+        cr*=nums[i];
 
       }
       cr=1;
