@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
