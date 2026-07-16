@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -209,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
