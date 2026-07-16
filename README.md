@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
