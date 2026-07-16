@@ -5,10 +5,10 @@ class Solution {
         int minSum = nums[0], currMin = 0;
 
         for (int num : nums) {
-            currMax = Math.max(num, currMax + num);
+            currMax = Math.max(num, currMax + num);//kadanesMax
             maxSum = Math.max(maxSum, currMax);
 
-            currMin = Math.min(num, currMin + num);
+            currMin = Math.min(num, currMin + num);//kadanesMin
             minSum = Math.min(minSum, currMin);
 
             total += num;
