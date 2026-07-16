@@ -4,10 +4,14 @@ class Solution {
         for (int i = 1; i < piles.length; i++) {
             high = Math.max(high, piles[i]);
         }
-        int low = 0; 
+        int low = 1; 
         while (low <= high) {
             int mid = low + (high - low) / 2;
-            int time = eatingTime(piles, mid);
+            // int time = eatingTime(piles, mid);
+            long time=0;
+             for (int num : piles) {
+                time += (num - 1) / mid + 1;
+            }
             if (time <= h)
             {
                 high = mid - 1;
@@ -19,11 +23,11 @@ class Solution {
         return low;
     }
 
-    int eatingTime(int[] arr, double n) {
-        int total = 0;
-        for (int i = 0; i < arr.length; i++) {
-            total += Math.ceil(arr[i] / n);
-        }
-        return total;
-    }
+    // int eatingTime(int[] arr, double n) {
+    //     int total = 0;
+    //     for (int i = 0; i < arr.length; i++) {
+    //         total += Math.ceil(arr[i] / n);
+    //     }
+    //     return total;
+    // }
 }
