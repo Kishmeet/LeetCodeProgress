@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
