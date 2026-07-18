@@ -20,7 +20,10 @@ class Solution {
                 last = position[i];
                 count++;
             }
+            if (count >= m)
+                return true;
         }
-        return count >= m;
+
+        return false;
     }
 }
