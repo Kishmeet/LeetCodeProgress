@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2270-number-of-ways-to-split-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2270-number-of-ways-to-split-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0560-subarray-sum-equals-k) |
+| [2270-number-of-ways-to-split-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2270-number-of-ways-to-split-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
