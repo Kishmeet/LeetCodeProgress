@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0704-binary-search) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Indexed Tree
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0918-maximum-sum-circular-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
