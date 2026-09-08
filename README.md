@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2270-number-of-ways-to-split-array](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2270-number-of-ways-to-split-array) |
+| [2643-row-with-maximum-ones](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2643-row-with-maximum-ones) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kishmeet/LeetCodeProgress/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Kishmeet/LeetCodeProgress/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
