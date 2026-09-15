@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kishmeet/LeetCodeProgress/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kishmeet/LeetCodeProgress/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
